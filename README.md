@@ -12,4 +12,4 @@
 <br />
 
 ### Languages and tools I work with:
-<code><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fp1.hiclipart.com%2Fpreview%2F930%2F119%2F770%2Fhtml-logo-html5-email-web-feed-theme-orange-line-circle-png-clipart.jpg&tbnid=84sxR3FO65RZFM&vet=12ahUKEwjX_IvRgciAAxUwIBAIHcaICawQMygIegUIARDaAQ..i&imgrefurl=https%3A%2F%2Fwww.hiclipart.com%2Ffree-transparent-background-png-clipart-pqsrk&docid=sm8rElEcAGjJCM&w=512&h=512&q=html%20logo%20transparent&ved=2ahUKEwjX_IvRgciAAxUwIBAIHcaICawQMygIegUIARDaAQ" alt="HTML image"></code>
+<code><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fp1.hiclipart.com%2Fpreview%2F930%2F119%2F770%2Fhtml-logo-html5-email-web-feed-theme-orange-line-circle-png-clipart.jpg&tbnid=84sxR3FO65RZFM&vet=12ahUKEwjX_IvRgciAAxUwIBAIHcaICawQMygIegUIARDaAQ..i&imgrefurl=https%3A%2F%2Fwww.hiclipart.com%2Ffree-transparent-background-png-clipart-pqsrk&docid=sm8rElEcAGjJCM&w=512&h=512&q=html%20logo%20transparent&ved=2ahUKEwjX_IvRgciAAxUwIBAIHcaICawQMygIegUIARDaAQ" alt="HTML image" height="25px"></code>

@@ -19,18 +19,19 @@
   <code>Bootstrap</code>
   <code>Sass</code>
   <code>JavaScript</code>
-  <code>AOS JS</code>
+  <code>Aos JS</code>
   <code>iTyped JS</code>
   <code>Parallax JS</code>
   <code>Particles JS</code>
   <code>Turn JS</code>
-  <code>Tailwind css</code>
-  <code>Git</code>
-  <code>GitHub</code>
+  <code>Moment JS</code>
+  <code>Tailwind Css</code>
   <code>React JS</code>
-  <code>React Native</code>
-  <code>Native Base</code>
+  <code>Git</code>
+  <code>Git Hub</code>
   <code>Redux</code>
+  <code>Native Base</code>
+  <code>React Native</code>
   <code>React Navigation</code>
 </div>
 

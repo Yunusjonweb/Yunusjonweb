@@ -46,5 +46,7 @@
 </code>
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://brandslogos.com/wp-content/uploads/images/large/redux-logo.png"><img src="https://brandslogos.com/wp-content/uploads/images/large/redux-logo.png" width="30px" data-canonical-src="https://brandslogos.com/wp-content/uploads/images/large/redux-logo.png" style="max-width: 100%;"></a>
 </code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://brandslogos.com/wp-content/uploads/images/large/react-logo.png"><img src="https://brandslogos.com/wp-content/uploads/images/large/react-logo.png" width="30px" data-canonical-src="https://brandslogos.com/wp-content/uploads/images/large/react-logo.png" style="max-width: 100%;"></a>
+</code>
 </p>
     

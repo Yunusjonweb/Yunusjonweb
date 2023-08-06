@@ -18,7 +18,7 @@
   <code>Css</code>
   <code>Bootstrap</code>
   <code>Sass</code>
-  <code>JavaScript&gt</code>
+  <code>JavaScript</code>
   <code>AOS JS</code>
   <code>iTyped JS</code>
   <code>Parallax JS</code>

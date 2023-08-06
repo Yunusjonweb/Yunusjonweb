@@ -24,6 +24,7 @@
   <code>Parallax JS</code>
   <code>Particles JS</code>
   <code>Turn JS</code>
+  <code>Tailwind css</code>
   <code>Git</code>
   <code>GitHub</code>
   <code>React JS</code>

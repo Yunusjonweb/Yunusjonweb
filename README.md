@@ -43,7 +43,6 @@
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://brandslogos.com/wp-content/uploads/images/large/git-logo.png"><img src="https://brandslogos.com/wp-content/uploads/images/large/git-logo.png" width="30px" data-canonical-src="https://brandslogos.com/wp-content/uploads/images/large/git-logo.png" style="max-width: 100%;"></a>
 </code>
 </p>
-
 <p dir="auto">
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://brandslogos.com/wp-content/uploads/images/large/github-logo.png"><img src="https://brandslogos.com/wp-content/uploads/images/large/github-logo.png" width="30px" data-canonical-src="https://brandslogos.com/wp-content/uploads/images/large/github-logo.png" style="max-width: 100%;"></a>
 </code>

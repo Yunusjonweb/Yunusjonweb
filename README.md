@@ -43,3 +43,8 @@
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://brandslogos.com/wp-content/uploads/images/large/react-logo.png"><img src="https://brandslogos.com/wp-content/uploads/images/large/react-logo.png" width="30px" data-canonical-src="https://brandslogos.com/wp-content/uploads/images/large/react-logo.png" style="max-width: 100%;"></a>
 </code>
 </p>
+<ul dir="auto">
+<li>📍 &nbsp; Current location: Uzbekistan Anywhere</li>
+<li><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>&nbsp; Ask me about anything, I am happy to help</li>
+<li><g-emoji class="g-emoji" alias="incoming_envelope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e8.png">📨</g-emoji>&nbsp; How to reach me: <a href="https://instagram.com/azizbekkhabibullaev_/" rel="nofollow">@azizbekkhabibullaev_</a></li>
+</ul>

@@ -46,5 +46,5 @@
 <ul dir="auto">
 <li>📍 &nbsp; Current location: Uzbekistan Anywhere</li>
 <li><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>&nbsp; Ask me about anything, I am happy to help</li>
-<li><g-emoji class="g-emoji" alias="incoming_envelope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e8.png">📨</g-emoji>&nbsp; How to reach me: <a href="https://instagram.com/azizbekkhabibullaev_/" rel="nofollow">@azizbekkhabibullaev_</a></li>
+<li><g-emoji class="g-emoji" alias="incoming_envelope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e8.png">📨</g-emoji>&nbsp; How to reach me: <a href="https://www.instagram.com/programmer__web/" rel="nofollow">@programmer_web</a></li>
 </ul>

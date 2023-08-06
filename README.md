@@ -18,8 +18,18 @@
   <code>Css</code>
   <code>Bootstrap</code>
   <code>Sass</code>
-  <code>JavaScript&gt;</code>
-  <code>ReactJs</code>
+  <code>JavaScript&gt</code>
+  <code>AOS JS</code>
+  <code>iTyped JS</code>
+  <code>Parallax JS</code>
+  <code>Particles JS</code>
+  <code>Turn JS</code>
+  <code>Git</code>
+  <code>GitHub</code>
+  <code>React JS</code>
+  <code>React Native</code>
+  <code>Native Base</code>
+  <code>Redux</code>
 </div>
 
 <p dir="auto"><code><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3d40cb2db7ec7ab11eba4a2c48287088798254ba01deee1a9d45e3903e84dfdc/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3733322f3733323231322e706e67"><img src="https://camo.githubusercontent.com/3d40cb2db7ec7ab11eba4a2c48287088798254ba01deee1a9d45e3903e84dfdc/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3733322f3733323231322e706e67" width="30px" data-canonical-src="https://cdn-icons-png.flaticon.com/512/732/732212.png" style="max-width: 100%;"></a></code>

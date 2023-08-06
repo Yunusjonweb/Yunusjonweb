@@ -13,6 +13,15 @@
 
 ### Languages and tools I work with:
 
+<div dir="auto">  
+  <code>Html</code>
+  <code>Css</code>
+  <code>Bootstrap</code>
+  <code>Sass</code>
+  <code>JavaScript&gt;</code>
+  <code>ReactJs</code>
+</div>
+
 <p dir="auto"><code><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3d40cb2db7ec7ab11eba4a2c48287088798254ba01deee1a9d45e3903e84dfdc/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3733322f3733323231322e706e67"><img src="https://camo.githubusercontent.com/3d40cb2db7ec7ab11eba4a2c48287088798254ba01deee1a9d45e3903e84dfdc/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3733322f3733323231322e706e67" width="30px" data-canonical-src="https://cdn-icons-png.flaticon.com/512/732/732212.png" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ab76cf33c1f19fa8ee8c301d48da09dbaf18d71e43dcb958d4ffb3e97a91d3e8/68747470733a2f2f63646e2e66726565626965737570706c792e636f6d2f6c6f676f732f6c617267652f32782f637373332d6c6f676f2d706e672d7472616e73706172656e742e706e67"><img src="https://camo.githubusercontent.com/ab76cf33c1f19fa8ee8c301d48da09dbaf18d71e43dcb958d4ffb3e97a91d3e8/68747470733a2f2f63646e2e66726565626965737570706c792e636f6d2f6c6f676f732f6c617267652f32782f637373332d6c6f676f2d706e672d7472616e73706172656e742e706e67" width="34px" data-canonical-src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5a3e9f617a51fa1e3885992f840d4f1097e188a6686338232c5958e380df554e/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f353936382f353936383637322e706e67"><img src="https://camo.githubusercontent.com/5a3e9f617a51fa1e3885992f840d4f1097e188a6686338232c5958e380df554e/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f353936382f353936383637322e706e67" width="30px" data-canonical-src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" style="max-width: 100%;"></a></code>

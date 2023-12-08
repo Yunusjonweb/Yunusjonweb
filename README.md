@@ -2,9 +2,7 @@
 
 🔥 I make videos on YouTube about software development.<br />
 ❤️ I work remotely and like to travel a lot.
-
 <br />
-
 ### Languages and tools I work with:
 
 <div dir="auto">  
